@@ -1,5 +1,3 @@
-![Wiring Diagram](diagram.gif)
-
 # Arduino MAX7219 8x8 Dot Matrix Arrow Direction Switch Animation
 
 A beginner-friendly Arduino project that demonstrates how to create a smooth arrow animation (right ↔ left) on an 8x8 LED dot matrix using the MAX7219 module.
