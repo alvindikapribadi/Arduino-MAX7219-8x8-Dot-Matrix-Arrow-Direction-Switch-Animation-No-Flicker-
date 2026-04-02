@@ -55,7 +55,7 @@ The MAX7219 handles multiplexing internally, making the implementation simple an
 
 You can download the Arduino sketch here:
 
-[Download Arduino Code](Arduino_MAX7219_Arrow_Animation.ino)
+[Download Arduino Code](Arduino_MAX7219_8x8_Dot_Matrix.ino)
 
 Or open the `.ino` file directly inside this repository.
 
