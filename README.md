@@ -96,7 +96,7 @@ You can expand this project by adding:
 
 Watch the full tutorial on YouTube:
 
-👉 https://youtu.be/Rxl1vE2BLHI
+👉 https://youtu.be/zErV1F79pwk
 
 In this video, you will see:
 - Wiring setup  
